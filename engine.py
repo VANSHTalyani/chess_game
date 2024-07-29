@@ -238,7 +238,7 @@ class UCI:
 
     def uci(self):
         print("id name AdvancedChessEngine")
-        print("id author YourName")
+        print("id author vansh")
         print("uciok")
 
     def isready(self):
